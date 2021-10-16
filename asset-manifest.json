@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/company-assign-kudos-assign/static/css/main.f2146349.chunk.css",
+    "main.js": "/company-assign-kudos-assign/static/js/main.744a8318.chunk.js",
+    "main.js.map": "/company-assign-kudos-assign/static/js/main.744a8318.chunk.js.map",
+    "runtime-main.js": "/company-assign-kudos-assign/static/js/runtime-main.0d2dd1e2.js",
+    "runtime-main.js.map": "/company-assign-kudos-assign/static/js/runtime-main.0d2dd1e2.js.map",
+    "static/js/2.9513b2f3.chunk.js": "/company-assign-kudos-assign/static/js/2.9513b2f3.chunk.js",
+    "static/js/2.9513b2f3.chunk.js.map": "/company-assign-kudos-assign/static/js/2.9513b2f3.chunk.js.map",
+    "static/js/3.f048861f.chunk.js": "/company-assign-kudos-assign/static/js/3.f048861f.chunk.js",
+    "static/js/3.f048861f.chunk.js.map": "/company-assign-kudos-assign/static/js/3.f048861f.chunk.js.map",
+    "index.html": "/company-assign-kudos-assign/index.html",
+    "static/css/main.f2146349.chunk.css.map": "/company-assign-kudos-assign/static/css/main.f2146349.chunk.css.map",
+    "static/js/2.9513b2f3.chunk.js.LICENSE.txt": "/company-assign-kudos-assign/static/js/2.9513b2f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d2dd1e2.js",
+    "static/js/2.9513b2f3.chunk.js",
+    "static/css/main.f2146349.chunk.css",
+    "static/js/main.744a8318.chunk.js"
+  ]
+}
